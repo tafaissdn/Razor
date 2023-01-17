@@ -1,7 +1,7 @@
 {
 	"open": {
 			
-		"ads": "max",
+		"ads": "admob",
 		"BannerAdmob": "ca-app-pub-9988521094839767/2333253367",
 		"IntersAdmob": "ca-app-pub-9988521094839767/3454763344",
 		"NativeAdmob": "ca-app-pub-9988521094839767/4530319091",
